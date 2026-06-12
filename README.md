@@ -1,3 +1,5 @@
+> ⚠️ **You are viewing a fork of [Gubby Photon's repository](YOUR_REPO_LINK).** This is your personal copy — any changes you make only affect your version.
+
 # 📱 Forsaken x Opera GX Rewards — Mobile Players
 
 > 🐰 Made with love by [**Gubby Photon**](https://www.youtube.com/@PhotonRBLX) &lt;3
