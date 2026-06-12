@@ -12,6 +12,9 @@
 
 ## ❓ Troubleshooting
 
+**😕 I can't run workflow**
+> Make sure you forked the repo, if it says photon-rblx/MobileForsakenOperaGXRewards, that's not yours, go to your own repository to run it.
+
 **❌ RDP says error**
 > You've likely entered the wrong key. Double check:
 > - Auth Key looks like: `tskey-auth-xxxxxxxxxx`
